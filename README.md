@@ -14,4 +14,4 @@ This is a very basic port of the Xamarin Sample located at https://github.com/xa
 
 **NOTE: I used a preview version of Visual Studio 2022 when developing this and only tested it on an Android emulator.
 
-![dotnet --info](Screenshots/dotnetinfo.PNG)
+![dotnet --info](Screenshots/dotnetinfo.png)

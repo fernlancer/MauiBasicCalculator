@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MauiBasicCalculator.WinUI": {
+      "commandName": "MsixPackage",
+      "nativeDebugging": false
+    }
+  }
+}
